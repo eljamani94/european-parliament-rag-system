@@ -44,7 +44,7 @@ This project implements a RAG pipeline that enables natural language queries ove
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/yourusername/ep-rag-system.git
+   git clone https://github.com/eljamani94/european-parliament-rag-system.git
    cd ep-rag-system
 ```
 
@@ -279,7 +279,7 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact [your-email@example.com]
+For questions or issues, please open a GitHub issue or contact [eljamani.aej@gmail.com]
 
 ---
 
